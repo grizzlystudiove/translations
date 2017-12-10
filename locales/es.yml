@@ -9,7 +9,7 @@ es:
     error: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación de arriba parece incorrecto. Por favor, compruebe que el número anterior coincide con lo que recibió de nosotros y vuelva a intentarlo."
     label: Código de autentificación
     page_title: Autentificación en dos pasos
-    subtitle: "¡2-Factorízame cariño!"
+    subtitle: "¡2 Factorízame cariño!"
     title: Código Secreto
   about:
     contact_info: Datos de contacto
@@ -39,8 +39,8 @@ es:
     modal:
       close: cerrar
       more: más
-      reply: Contestar
-    title: Feed de Actividad
+      reply: Responder
+    title: Actualización de Actividad
   following:
     follow: Sigue
     following: Siguiendo
@@ -51,7 +51,7 @@ es:
   forgot_password:
     email:
       cta: Envíame un correo electrónico con instrucciones
-      error_forgot_email: Email address is required.
+      error_forgot_email: Un correo electronico es requerido.
       error_invalid_email: Eso no parece una dirección de correo electrónico válida. ¿Le importa revisar y volverlo a enviar por favor?
       error_quota: Sólo podemos enviar dos correos electrónicos por hora a cualquier dirección de correo electrónico indicada. Por favor, compruebe que nuestro correo electrónico no terminó en su filtro de spam. Si no puede encontrar nada en el filtro de spam, recomiendamos el uso de uno de los otros métodos anteriores para recuperar su cuenta.
       placeholder: Dirección de correo electrónico
@@ -67,7 +67,7 @@ es:
       warning: "<strong>Advertencia :</strong> Por razones de seguridad, no podemos decir si existe una dirección de correo electrónico en nuestra base de datos o no. Si Ud. no recibe un correo electrónico de nosotros, es más probable que sea porque no tenemos una cuenta asociada a esa dirección de correo electrónico."
     mobile:
       5strike:
-        return: volver a la portada
+        return: Volver a la portada
         subtitle: Mecachis, por razones de seguridad, tendrá que esperar dos horas antes de poder intentarlo de nuevo.
         title: Regla de los cinco intentos
       cta: Envíeme un Mensaje de Texto
@@ -75,7 +75,7 @@ es:
       error_quota: "<strong>Operador Kinky:</strong> Mecachis, sólo podemos tratar de enviar hasta 3 mensajes de texto cada 24 horas a cualquier número de teléfono móvil. Tanto si el número existe en nuestra base de datos o no."
       pro_tip: "<strong>Sugerencia Pro:</strong> Asegúrese de que comience su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
       step1:
-        page_title: Restablecer Contraseña a través de Mensajes de Texto
+        page_title: Restablecer Contraseña a través de Mensajes de un Texto
         subtitle: Déjeme ayudarle con eso.
         title: "¿Se le olvidó su contraseña?"
       step2:
@@ -141,15 +141,15 @@ es:
     error_flash: Por favor, póngase en contacto con <a href="mailto:support@fetlife.com">support@fetlife.com</a> para que podamos ayudarle a volver a entrar.
     error_login_blank: El usuario no puede estar en blanco.
     error_not_authenticated: Lo siento amigo mio, tiene que estar logueado para acceder a esa página. Si aún no es miembro, se tarda menos de un minuto en inscribirse.
-    error_not_found: Hmmm, no pudimos encontrarle. ¿Seguro que introdujo su apodo y su contraseña correctamente? (Las contraseñas distinguen MAYUSCULAS de minúsculas)
+    error_not_found: Hmmm, no pudimos encontrarte. ¿Seguro que introdujo su apodo y su contraseña correctamente? (Las contraseñas distinguen MAYUSCULAS de minúsculas)
     error_password_blank: La contraseña no puede estar en blanco.
     forgot_info: "¿Ha olvidado su información de acceso?"
     labels:
       nickname: Apodo o Correo Electrónico
       password: Contraseña
-      remember_me: Acuérdese de mí, vuelvo enseguida.
+      remember_me: Acuérdate de mí, vuelvo enseguida.
     not_a_member: "¿No es miembro todavía? Regístrese en FetLife"
-    subtitle: Le hemos echado de menos... ¡a lo grande!
+    subtitle: Te hemos echado de menos... ¡a lo grande!
     title: Bienvenido a Casa
   logout:
     log_in: Volver a loguearse
@@ -269,7 +269,7 @@ es:
     ad_stats: Estadísticas de Anuncios
     advertising: Anuncios
     androidapp: Instalar app de FetLife para Android
-    bug_bounty: Bug Bounty
+    bug_bounty: Anunciador de errores
     caretaking: Cuidadores
     change_language: Cambiar idioma
     close: Cerrar
@@ -280,16 +280,16 @@ es:
     following: Siguiendo
     fp: Fresco & Pervertido
     funny_quote: Si no puede leer esto ... ¡es probable que necesite gafas! - Juan 4:69
-    gift_support: Regalar Apoyo a FetLife
+    gift_support: Presta tu apoyo a FetLife
     glossary: Glosario
     groups: Grupos
     guidelines: Directrices
-    home: Casa
-    invite_a_friend: Invitar a un Amigo (%{count})
-    kp: Kinky & Popular
+    home: Principal
+    invite_a_friend: Invita un Amigo (%{count})
+    kp: Kinky y Popular
     legalese: Leguleyos
     log_out: Cerrar sesión
-    login: Login
+    login: Logueate
     loved_stuff: Cosas que Ama
     need_help: "¿Necesita ayuda?"
     open_source: Código Abierto
@@ -347,9 +347,9 @@ es:
     title: Bienvenido a casa
   signup_avatar:
     pro_tip: '<strong>Sugerencia Pro</strong>: Si es usted tímido y prefiere no mostrar su cara, ¡no dude en ser creativo y mostrar un lado diferente de usted! O si lo prefiere, puede <a class="silver" href="%{next_step_path}">omitir este paso</a> por ahora.'
-    say_cheese: Diga ¡patata!
-    subtitle: "¡La gente con avatar se lo pasa 69 veces mejor!"
-    title: Suba un Avatar
+    say_cheese: Diga ¡Whiskey!
+    subtitle: "¡Los usuarios con foto de perfil se lo pasa 69 veces mejor!"
+    title: Sube una foto de perfil
   signup_five_strikes:
     page_title: Regla de los cinco intentos
     return_to_front: regresar a la portada
@@ -361,18 +361,18 @@ es:
     subtitle: Siga kinksters que despierten su interés.
     title: "¿Alguna persona llama su atención?"
   signup_phone:
-    cta: Enviarme un Código de verificación
+    cta: Enviame un Código de verificación
     error_blocked: "<strong>Operador Kinky:</strong> Desafortunadamente ,en estos momentos no admitimos registrarse usando un número de %{carrier_name}."
     error_cant_send: "<strong>Operador Kinky:</strong> Tenemos problemas en el envío del mensaje de texto. Asegúrese de que comience su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc., ademas de no estar tratando de enviar un mensaje de texto a un teléfono fijo."
     error_quota: "<strong>Operador Kinky:</strong> No podemos enviar más de 3 mensajes de texto al mismo número en un período de 24 horas. Por favor, inténtelo de nuevo más tarde."
     explanation: Sabemos que es mucho a pedir, pero para mantener una comunidad sana y vibrante, tenemos que verificar a todo el mundo antes de se unan. Algo que creemos que podrá apreciar una vez que estén dentro.
     label: Número del Teléfono Móvil
-    page_title: Envíe el Código de Verificación
+    page_title: Envíame el Código de Verificación
     pro_tip: "<strong>Consejo Pro:</strong> Asegúrese de que inicie su número con el código de país: +1 para los EE.UU. y Canadá, +44 para el Reino Unido, +61 para Australia, +31 para Países Bajos, +49 para Alemania, +33 para Francia, etc."
     subtitle: Mensaje de texto anónimo de una sola vez.
     title: "¡Es hora de la Verificación!"
   signup_verify:
-    cta: Complete la Registración y Verificación
+    cta: Complete el Registro y Verificación
     incorrect_code: "<strong>Operador Kinky:</strong> Doh&hellip; el código de verificación que ha introducido parece incorrecto. Por favor, compruebe que el número anterior coincide con el que recibió de nosotros y vuelva a intentarlo."
     label: Código de Verificación
     notice: Hemos enviado el código de verificación al <strong>%{phone_number}</strong>. Si después de unos minutos no recibe un mensaje de texto de nosotros, <a class="silver" href="%{back_path}"> actualice su número y le enviaremos un nuevo código de verificación </a>.
@@ -442,8 +442,8 @@ es:
     errors:
       account_number_blank: El número de cuenta no puede estar en blanco
       address_blank: La direccion no puede estar en blanco
-      answer_blank: Answer can't be blank
-      bankcode_blank: Bank can't be blank
+      answer_blank: La respuesta no puede'estar en blanco
+      bankcode_blank: El banco no puede 'estar en blanco
       bic_blank: El BIC no puede estar en blanco
       bic_format: El BIC es inválido
       canceled: La transacción ha sido cancelada por el usuario.
